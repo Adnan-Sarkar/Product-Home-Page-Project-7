@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+/*====================
+        navbar
+==================== */
+nav {
+    width: 78%;
+    margin: 50px auto 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-items h5 {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    cursor: pointer;
+    transition: all 300ms linear;
+}
+
+.nav-items h5:hover {
+    font-weight: 900;
+    color: #FE5E35;
+}
+
+.nav-items h5.active-item {
+    font-weight: 900;
+    color: #FE5E35;
+}
+
+
+/*====================
+        navbar
+==================== */
+.intro-section {
+    display: flex;
+    width: 95%;
+    margin: 100px auto 0px;
+    justify-content: center;
+}
+
+.left-section {
+    width: 55%;
+}
+
+.left-section h3 {
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+
+.left-section h3 img {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.left-section h1 {
+    font-family: "Fredoka One", sans-serif;
+    font-size: 95px;
+}
+
+.left-section .sub-headlines {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.left-section .sub-headline {
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.left-section .sub-headline img {
+    width: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.left-section .text {
+    font-family: "Poppins", sans-serif;
+    padding-top: 60px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #9F9F9F;
+    margin-right: 257px;
+}
+
+.left-section .action-btns {
+    margin-top: 250px;
+}
+
+.action-btn {
+    padding: 15px 40px;
+    background-color: #FE5E35;
+    outline: 0;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 40px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.right-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.right-section .discount {
+    position: absolute;
+    bottom: 310px;
+    left: -40px;
+}
+
+.right-section .discount-content {
+    position: absolute;
+    bottom: 355px;
+    left: -5px;
+    text-align: center;
+}
+
+.right-section .discount-content h4 {
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+.right-section .discount-content h1 {
+    color: #fff;
+    font-family: "Fredoka One", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.right-section .dots {
+    position: relative;
+    cursor: pointer;
+}
+
+.right-section .dots .yellow-dot::after {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: -138px;
+    top: 30px;
+    background-color: #fbd104;
+}
+
+.right-section .dots .tomato-dot::after {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: -39px;
+    top: 30px;
+    background-color: rgb(254, 94, 53);
+}
+
+.right-section .dots .black-dot::after {
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 55px;
+    top: 30px;
+    background-color: #000000;
+}
+
+.right-section .action-btn {
+    margin-top: 155px;
+}
+
+
+
+
+
+/*====================
+        navbar
+==================== */
+/*====================
+        navbar
+==================== */
+/*====================
+        navbar
+==================== */
