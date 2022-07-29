@@ -13,7 +13,7 @@ I'm `Adnan Sarkar`. This is the 7th assignment in my [Full Stack Javascript](htt
 
 [Live Preview](https://product-home-page-project-7.netlify.app/)
 
-![]()
+![](Product%20Home%20Page.png)
 
 ##  What I have learned in this project?
 - Flex-box for elements alignment.

@@ -107,7 +107,7 @@ nav {
 }
 
 .left-section .action-btns {
-    margin-top: 140px;
+    margin-top: 95px;
 }
 
 .action-btn {
@@ -132,13 +132,13 @@ nav {
 
 .right-section .discount {
     position: absolute;
-    bottom: 180px;
+    bottom: 195px;
     left: -40px;
 }
 
 .right-section .discount-content {
     position: absolute;
-    bottom: 220px;
+    bottom: 245px;
     left: -5px;
     text-align: center;
 }
@@ -168,7 +168,7 @@ nav {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    left: -138px;
+    left: -89px;
     top: 0;
     background-color: #fbd104;
 }
@@ -190,9 +190,13 @@ nav {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    left: 55px;
+    left: 10px;
     top: 0;
     background-color: #000000;
+}
+
+.right-section .action-btn {
+    margin-top: 60px;
 }
 
 .right-section .action-btn {
