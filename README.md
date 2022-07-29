@@ -11,7 +11,7 @@ I'm `Adnan Sarkar`. This is the 7th assignment in my [Full Stack Javascript](htt
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080`
 
-[Live Preview]()
+[Live Preview](https://product-home-page-project-7.netlify.app/)
 
 ![]()
 
