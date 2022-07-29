@@ -130,6 +130,10 @@ nav {
     position: relative;
 }
 
+.headphone-div img:last-child {
+    margin-top: -60px;
+}
+
 .right-section .discount {
     position: absolute;
     bottom: 195px;
@@ -202,17 +206,3 @@ nav {
 .right-section .action-btn {
     margin-top: 45px;
 }
-
-
-
-
-
-/*====================
-        navbar
-==================== */
-/*====================
-        navbar
-==================== */
-/*====================
-        navbar
-==================== */
