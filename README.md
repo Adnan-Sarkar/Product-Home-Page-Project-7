@@ -2,15 +2,13 @@
 
 Hello There,
 
-I'm `Adnan Sarkar`. This is the 7th assignment in my [Full Stack Javascript](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) course. Where I designed this page using raw HTML & CSS. This design is not responsive, because at first, I prove to myself that I'm comfortable designing anything using raw HTML-CSS. It looks perfect on screen size `1920 x 1080`.
+I'm `Adnan Sarkar`. This is the 7th assignment in my [Full Stack Javascript](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) course. Where I designed this page using raw HTML & CSS. This design is responsive and I use for it only media queries. Now, I'm strongly confident to do any website responsive with raw HTML-CSS without using any framework.
 
 ## 🛠 Technologies Used
 - HTML
 - CSS
 
 ## 🖥 Preview
-`note:` please make sure the preview screen is `1920 x 1080`
-
 [Live Preview](https://product-home-page-project-7.netlify.app/)
 
 ![](Product%20Home%20Page.png)
@@ -18,10 +16,11 @@ I'm `Adnan Sarkar`. This is the 7th assignment in my [Full Stack Javascript](htt
 ##  What I have learned in this project?
 - Flex-box for elements alignment.
 - Clear understanding of CSS positioning property.
-- Perfect use of ::before/::after selector in CSS
+- Perfect use of ::before/::after selector in CSS.
+- Media queries for responsive design.
 
 ## ⏲ Time to finish the project
-It took me around 4-5 hours to complete this project.
+It took me around 7 hours to complete this project.
 
 ## 📢 Social Links
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sarkar-8b54341a0/)

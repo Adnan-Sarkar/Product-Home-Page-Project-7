@@ -15,7 +15,7 @@ ol {
 
 /*====================
         navbar
-==================== */
+====================*/
 nav {
     width: 78%;
     margin: 50px auto 0px;
@@ -24,8 +24,15 @@ nav {
     align-items: center;
 }
 
+.nav-right {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .nav-items {
-    width: 35%;
+    width: 65%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -48,15 +55,25 @@ nav {
     color: #FE5E35;
 }
 
+#nav-check {
+    display: none;
+}
+
+.nav-responsive-btn {
+    display: none;
+}
+
 
 /*====================
-        navbar
-==================== */
+        intro
+=====================*/
 .intro-section {
     display: flex;
     width: 95%;
     margin: 100px auto 0px;
     justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
 }
 
 .left-section {
@@ -130,20 +147,26 @@ nav {
     position: relative;
 }
 
-.headphone-div img:last-child {
+.banner-img img {
     margin-top: -60px;
 }
 
-.right-section .discount {
+.right-section .discount-mark {
     position: absolute;
     bottom: 195px;
     left: -40px;
+    text-align: center;
+}
+
+.discount-mark img {
+    width: 100%;
 }
 
 .right-section .discount-content {
     position: absolute;
-    bottom: 245px;
-    left: -5px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
 }
 
@@ -197,10 +220,6 @@ nav {
     left: 10px;
     top: 0;
     background-color: #000000;
-}
-
-.right-section .action-btn {
-    margin-top: 60px;
 }
 
 .right-section .action-btn {
